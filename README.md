@@ -10,8 +10,8 @@
 * Rugged https://github.com/libgit2/rugged
 * Sunrise CMS https://github.com/galetahub/sunrise
 * Geokit https://github.com/geokit/geokit
-*
-*
+* Sunrset https://github.com/eripa/sunrset
+* 
 *
 *
 *
