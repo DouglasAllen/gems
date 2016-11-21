@@ -30,11 +30,11 @@
 * Sundown https://github.com/albertpaulp/sundown
 * Dragonfly https://github.com/markevans/dragonfly
 * Sunriseset https://github.com/rbur004/sunriseset
+* Signet https://github.com/google/signet
+* JRuby-Rack https://github.com/jruby/jruby-rack
+* Solartime https://github.com/syystunturi/solartime
+* Semi Static https://github.com/zzot/semi-static
 * 
-*
-*
-*
-*
 *
 *
 *
