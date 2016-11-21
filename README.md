@@ -28,9 +28,9 @@
 * ChineseLunar https://github.com/lanvige/chinese_lunar
 * Ruby Gnuplot https://github.com/rdp/ruby_gnuplot
 * Sundown https://github.com/albertpaulp/sundown
-*
-*
-*
+* Dragonfly https://github.com/markevans/dragonfly
+* Sunriseset https://github.com/rbur004/sunriseset
+* 
 *
 *
 *
